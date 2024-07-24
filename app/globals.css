@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(24, 24, 24);
+  color: white;
+}
+
+.card{
+  background-color: rgb(44, 44, 44);
+  border-radius: 30px;
+  border:none
+}
+.btn-edit{
+  background-color: rgb(24, 24, 24);
+  border-radius: 15px;
+}
+.btn-delete{
+  background-color: rgb(24, 24, 24);
+  border-radius: 15px;
+}
+.btn-add{
+  background-color: rgb(44, 44, 44);
+  border-radius: 10px;
+}
+.dailog{
+  background-color: rgb(44, 44, 44);
+  border-radius: 20px;
+}
+.btn-save{
+  background-color: rgb(24, 24, 24);
+  border-radius: 10px;
+}
